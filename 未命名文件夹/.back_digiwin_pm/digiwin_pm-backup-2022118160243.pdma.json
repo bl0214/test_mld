@@ -4,7 +4,7 @@
   "avatar": "",
   "version": "4.2.0",
   "createdTime": "2022-11-7 14:23:54",
-  "updatedTime": "2022-11-8 16:02:46",
+  "updatedTime": "2022-11-8 16:02:16",
   "dbConns": [],
   "profile": {
     "default": {
@@ -480,7 +480,7 @@
       "properties": {},
       "fields": [
         {
-          "defKey": "app_code44qqwq",
+          "defKey": "app_code44",
           "defName": "應用產品線代碼",
           "comment": "",
           "domain": "",
